@@ -1,2 +1,2 @@
 # Python-Fiddling
-Just some random projects I made to test Python modulues
+Just some random projects I made to test Python things
